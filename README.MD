@@ -1,4 +1,4 @@
-## Paso:1 Redirigete a la carpeta del proyecto con CD, si está en MacOS debe usar "/"
+## Paso 1: Redirigete a la carpeta del proyecto con CD, si está en MacOS debe usar "/"
  
 ## Paso 2: Cree el ambiente virtual
 python -m venv myenv
@@ -6,7 +6,7 @@ python -m venv myenv
 ## Paso 3: Activar el entorno virtual
 myenv\Scripts\activate
 
-### Observacion: si está en MacOS debe utilizar el siguiente comando para el paso 3
+### Observacion: si está en MacOS debe utilizar el siguiente comando:
 source myenv/bin/activate
 
 ## Paso 4: Instalar las librerias del archivo requirements.txt

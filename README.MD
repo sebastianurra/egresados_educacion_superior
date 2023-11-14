@@ -12,6 +12,6 @@ source myenv/bin/activate
 # Instalar las librerias del archivo requirements.txt
 pip install -r requirements.txt
 
-# Los archivos son descargados desde la siguiente url: 
+# Luego debe descargar el csv más reciente de la siguiente URL: 
 https://datosabiertos.mineduc.cl/titulados-en-educacion-superior/
 

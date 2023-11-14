@@ -6,12 +6,12 @@ python -m venv myenv
 ## Paso 3: Activar el entorno virtual
 myenv\Scripts\activate
 
-## Observacion: si está en MacOS debe utilizar el siguiente comando para el paso 3
+### Observacion: si está en MacOS debe utilizar el siguiente comando para el paso 3
 source myenv/bin/activate
 
-## Instalar las librerias del archivo requirements.txt
+## Paso 4: Instalar las librerias del archivo requirements.txt
 pip install -r requirements.txt
 
-## Luego debe descargar el csv más reciente de la siguiente URL y guardelo en la carpeta del repositorio: 
+## Paso 5: Luego debe descargar el csv más reciente de la siguiente URL y guardelo en la carpeta del repositorio: 
 https://datosabiertos.mineduc.cl/titulados-en-educacion-superior/
 

@@ -15,3 +15,6 @@ pip install -r requirements.txt
 ## Paso 5: Luego debe descargar el csv más reciente de la siguiente URL y guardelo en la carpeta del repositorio.
 https://datosabiertos.mineduc.cl/titulados-en-educacion-superior/
 
+## Paso 6: Ejercutar la aplicación get_excel_resumen_es.py
+python get_excel_resumen_es.py
+
